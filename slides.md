@@ -17,7 +17,7 @@ mdc: true
   max-width: 100%;
   max-height: 95vh;
   overflow: auto;
-  transform: scale(0.63);
+  transform: scale(0.5);
   transform-origin: top center;
 }
 
