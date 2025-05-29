@@ -325,6 +325,7 @@ graph TB
         Admin --> Admin2[Модерация аудио]
         Admin --> Admin3[Загрузка изображений]
     end
+```
 
 ```mermaid
 graph TB    
