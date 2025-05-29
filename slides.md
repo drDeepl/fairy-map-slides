@@ -15,7 +15,7 @@ mdc: true
 
  .mermaid {
   max-width: 100%;
-  max-height: 80vh;
+  /* max-height: 80vh; */
   overflow: auto;
   transform: scale(0.63);
   transform-origin: top center;
@@ -325,7 +325,9 @@ graph TB
         Admin --> Admin2[Модерация аудио]
         Admin --> Admin3[Загрузка изображений]
     end
-    
+
+```mermaid
+graph TB    
     subgraph "Географические и этнические данные"
         C[Контроллер регионов] --> C1[Управление субъектами РФ]
         E[Контроллер этнических групп] --> E1[Этнические группы]
