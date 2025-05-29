@@ -299,7 +299,7 @@ C --> D
 
 # Проектирование REST API 
 
-![](./fairy-map-erd.svg)
+![](./apu-auht.svg)
 
 ---
 
