@@ -1,0 +1,19 @@
+{
+  "name": "fairy-map-slides",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.8.0",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-component-scroll": "^1.1.0",
+    "slidev-theme-academic": "^2.1.0",
+    "vue": "^3.4.0"
+  }
+}
