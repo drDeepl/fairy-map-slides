@@ -299,7 +299,7 @@ C --> D
 
 # Проектирование REST API 
 
-![](./api-auht.svg)
+![](./api-auth.svg)
 
 ---
 
