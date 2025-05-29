@@ -303,6 +303,9 @@ C --> D
 
 ---
 
+![](./images/api-conent.svg)
+
+
 ```mermaid
 graph TB    
     subgraph "Управление контентом"
