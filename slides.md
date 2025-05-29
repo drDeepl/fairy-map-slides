@@ -15,7 +15,7 @@ mdc: true
 
  .mermaid {
   max-width: 100%;
-  max-height: 95vh;
+  max-height: 100%;
   overflow: auto;
   transform: scale(0.5);
   transform-origin: top center;
