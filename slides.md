@@ -305,6 +305,11 @@ C --> D
 
 ![](./images/api-conent.svg)
 
+---
+
+![](./images/api-ethnic.svg)
+
+
 
 ```mermaid
 graph TB    
