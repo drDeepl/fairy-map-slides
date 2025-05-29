@@ -299,6 +299,10 @@ C --> D
 
 # Проектирование REST API 
 
+![](./fairy-map-erd.svg)
+
+---
+
 ```mermaid
 graph TB
     subgraph "Аутентификация и управление пользователями"
